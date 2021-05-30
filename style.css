@@ -21,3 +21,8 @@ li {
 li#segundo {
     font-size: xx-small;
 }
+
+img#agua {
+    margin:25%;
+    align-self:center
+}
